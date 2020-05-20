@@ -4,6 +4,7 @@ Plugin hecho por   =>   Kenny Poncio
 https://github.com/kenpoc4
 
 ----------   DESCRIPCIÓN   ----------
+
     Plugin para Wordpress(Y adaptable para diseño nativo) que reinicia todas la configuraciones establecidas nativamente en CSS a un entorno (personalmente) más cómodo.
 
 ----------   CAMBIOS QUE REALIZA   ----------
@@ -35,6 +36,7 @@ https://github.com/kenpoc4
         }
 
     *** CAMBIOS SUGERIDOS 
+    
     h1, h2, h3, h4   =>   Margen= 1rem y Altura de linea= 1.2 
     h1               =>   Tamaño = 5rem
     h2               =>   Tamaño = 3.8rem
@@ -46,7 +48,9 @@ https://github.com/kenpoc4
     contenedor       =>   Altura maxima = 12rem(120px), Altura = 95% y Margen = auto 0
 
 ----------   COMO USARLO   ----------
+
     1.- Instalar el repositorio como Plugin
+    
     2.- Colocar 'normalize' y 'k_style' como las dependencias de tu hoja de estilos.
         (Si llega a desinstalar el plugin recuerde eliminar las dependencias anteriores de la hoja de estilos, de lo contrario no le cargara)
     
