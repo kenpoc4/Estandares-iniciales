@@ -1,9 +1,5 @@
-/* :root {
-    Fuentes
+/* HOJA DE ESTILOS DEL PLUGIN ESTANDARES INICIALES */
 
-    Colores
-
-} */
 html {
     box-sizing: border-box;
     font-size: 62.5%; /* Establecemos que -> 10px = 1rem */
@@ -12,13 +8,12 @@ body {
     font-size: 16px; 
     font-size: 1.6rem; 
     line-height: 1.5;
-  }
+}
 *, *:before, *:after {
     box-sizing: inherit;
 }
 
 h1, h2, h3, h4 {
-    /* font-family: --- COLOCAR FUENTE PRINCIPAL---; */
     margin: 1rem 0;
     line-height: 1.2;
 }
