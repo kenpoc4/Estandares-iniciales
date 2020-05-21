@@ -7,7 +7,7 @@ html {
 body {
     font-size: 16px; 
     font-size: 1.6rem; 
-    line-height: 1.5;
+    line-height: 2;
 }
 *, *:before, *:after {
     box-sizing: inherit;
@@ -43,7 +43,7 @@ img {
     height: auto;
 }
 .contenedor {
-    max-width: 120px;
+    max-width: 1200px;
     width: 95%;
     margin: 0 auto;
 }
